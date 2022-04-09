@@ -2,9 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-Created on 2011-04-06
-@description: use multithreading to visist some of my blog pages
-@author: http://smilejay.com/
+Created on 2022
 '''
 
 import sys
