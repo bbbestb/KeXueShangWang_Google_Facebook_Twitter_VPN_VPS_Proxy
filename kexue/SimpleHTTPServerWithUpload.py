@@ -2,8 +2,6 @@
 
 """Simple HTTP Server With Upload.
 
-https://github.com/tualatrix/tools/blob/master/SimpleHTTPServerWithUpload.py
-
 This module builds on BaseHTTPServer by implementing the standard GET
 and HEAD requests in a fairly straightforward manner.
 
