@@ -1,8 +1,6 @@
 '''
 calculate how many bottles of beer you can drink.
-1. money: n RMB (e.g. n=10)
-2. price: 2 RMB / bottle
-3. 3 empty bottles --> 1 bottle of beer
+no sence
 '''
 
 
