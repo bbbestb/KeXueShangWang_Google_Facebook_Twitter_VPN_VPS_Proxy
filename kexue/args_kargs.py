@@ -1,6 +1,5 @@
 # *-* encoding=utf-8 *-*
 '''
-just try to use *args and **kargs.
 *args表示任何多个无名参数，它是一个tuple；**kwargs表示关键字参数，它是一个dict。并且同时使用*args和**kwargs时，必须*args参数列要在**kwargs前
 '''
 
