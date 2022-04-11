@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 '''
-Created on Sep 20, 2013
-@summary: some of the methods to handle date calculation
-@author: Jay <smilejay.com>
+Created for date
 '''
 
 import datetime
