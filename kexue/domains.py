@@ -5,7 +5,7 @@ import libvirt
 
 def destroy_domains():
     '''
-    destroy all domains() via libvirt python API.
+    destroy all domains() via libvirt 
     '''
     conn = libvirt.open(None)
     if conn:
