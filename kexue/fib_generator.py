@@ -1,5 +1,4 @@
 #!/usr/bin/python
-# make a Fibonacci generator.
 
 
 def fib(max):
