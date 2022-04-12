@@ -1,6 +1,5 @@
 #!/usr/bin/python
-# Get domain info via libvirt python API.
-# Tested with python2.6 and libvirt-python-0.9.10 on KVM host.
+
 
 import libvirt
 import sys
