@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# 删除1~100的整数中的素数.
 
 import math
 
