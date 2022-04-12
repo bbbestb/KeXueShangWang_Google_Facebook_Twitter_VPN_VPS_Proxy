@@ -1,7 +1,5 @@
 '''
-package installation command:
     pip install beautifulsoup4 requests
-(bs4 doesn't work with python 2.6, so this only work on python 2.7)
 '''
 
 import requests
