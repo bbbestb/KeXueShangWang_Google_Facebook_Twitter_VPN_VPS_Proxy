@@ -1,10 +1,5 @@
 #!/usr/bin/python3
-'''
-Created on Dec 5, 2011
 
-@author: Jay Ren
-@note: to get and parse html from a url, then, to download all the RPMs listed in the html context
-'''
 
 import http.client
 from html.parser import HTMLParser
