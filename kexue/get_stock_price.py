@@ -1,12 +1,7 @@
 #! /usr/bin/python3
 # coding=utf-8
 
-'''
-Created on Nov 9, 2011
 
-@author: Jay Ren
-@note: get some stock prices.  need to know how to deal with some numbers and print formate.
-'''
 
 import urllib.request
 
