@@ -1,7 +1,5 @@
 #!/usr/bin/python
-# test how to use for-else / while-else clause.
-# else sub-clause will be executed when there's no break/return/exception in the
-# iteration.
+
 
 list1 = [1, 2, 3, 4, 5]
 list2 = [4, 5, 6, 7, 8]
