@@ -1,11 +1,7 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*-
 
-'''
-Created on 2011-8-15
 
-@author: Jay Ren  笑遍世界
-'''
 
 import re
 import urllib.request
