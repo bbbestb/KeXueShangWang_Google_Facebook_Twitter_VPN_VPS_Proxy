@@ -1,11 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-'''
-Created on Oct 20, 2013
-@summary: geography info about an IP address
-@author: Jay <smile665@gmail.com>     http://smilejay.com/
-'''
+
 
 import json
 import urllib2
