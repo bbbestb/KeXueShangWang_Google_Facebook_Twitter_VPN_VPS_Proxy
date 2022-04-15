@@ -5,7 +5,7 @@ static PyObject * jay_hello(PyObject *self, PyObject *args) {
 	int sts;
 	if (!PyArg_ParseTuple(args, "s", &person))
 		return NULL;
-	printf("Hello, %s. I'm Jay.\n", person );
+	printf("Hello, %s. I'm king.\n", person );
 	return Py_None;
 /*
 	sts = printf("Hello, %s. I'm Jay.\n", person );
