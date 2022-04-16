@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# python built-in map()/reduce() exercises.
+
 
 print map(lambda x: x.title(), ['adam', 'LISA', 'barT', 'Jay'])
 
