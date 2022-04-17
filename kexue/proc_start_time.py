@@ -1,7 +1,4 @@
-'''
-get the start time of a process
-e.g. python proc_start_time.py -p 12345
-'''
+
 import argparse
 import psutil
 import os
