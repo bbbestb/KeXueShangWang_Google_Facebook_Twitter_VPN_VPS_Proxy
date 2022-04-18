@@ -1,8 +1,6 @@
 # _*_ coding: utf-8 _*_
 '''
-Created on Jul 14, 2015
-
-@author: Jay
+etc eth？？？
 '''
 
 
