@@ -1,11 +1,7 @@
 # -*- coding: gb2312 -*-
 
 '''
-Created on 2013-1-27
-
-@author: Jay Ren
-@module: rename_files
-@note: rename files in a Windows system.
+跳出去？
 '''
 
 import os
