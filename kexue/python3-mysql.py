@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-# a sample to use mysql-connector for python3
-# see details from   http://dev.mysql.com/doc/connector-python/en/index.html
+#
 
 import mysql.connector
 import sys
