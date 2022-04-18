@@ -1,14 +1,7 @@
 # *_* coding=utf-8 *_*
 
 '''
-反转链表：
-https://leetcode-cn.com/problems/reverse-linked-list/
-
-实现了一个链表；并且用 迭代/递归 两种方法进行反转。
-
-1. 迭代：时间复杂度 O(N)  空间复杂度 O(1)
-2. 递归：时间复杂度 O(N)  空间复杂度 O(N)
-
+自行车
 '''
 
 
