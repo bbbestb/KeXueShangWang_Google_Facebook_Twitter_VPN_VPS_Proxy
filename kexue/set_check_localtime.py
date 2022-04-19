@@ -1,4 +1,5 @@
 # -*- coding: utf-8
+#社会脱节
 
 import sys
 import time
