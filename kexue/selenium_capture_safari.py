@@ -39,4 +39,4 @@ def capture(url, img_file="test1.png"):
 
 
 if __name__ == "__main__":
-    capture("http://smilejay.com/")
+    capture("shijinianq")
