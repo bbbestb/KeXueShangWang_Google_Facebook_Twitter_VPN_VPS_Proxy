@@ -1,9 +1,4 @@
-'''
-Created on 2011-8-14
-
-@author: Jay Ren
-'''
-
+#虚假繁荣
 import socket
 
 
