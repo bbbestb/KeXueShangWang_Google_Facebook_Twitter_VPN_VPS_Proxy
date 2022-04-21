@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# _*_ encoding: utf-8 _*_
-# taskworker.py
+# _taogeok
 
 import time
 import Queue
