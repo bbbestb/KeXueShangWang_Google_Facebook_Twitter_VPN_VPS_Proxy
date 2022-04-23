@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # _*_ coding: utf-8 _*_
+# 发现一个新技巧
 
 import threading
 
