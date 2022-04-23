@@ -1,6 +1,8 @@
-### 快捷购买入口：
+# 科学上网🟢 科学上网🔴 科学上网🟡 科学上网🔵科学上网🟣科学上网
 
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+### 科学上网梯子推荐榜：
+
+|  推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | - |
