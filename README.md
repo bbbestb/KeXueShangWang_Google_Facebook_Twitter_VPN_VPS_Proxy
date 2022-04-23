@@ -2,7 +2,7 @@
 
 ### 科学上网梯子推荐榜：
 
-|  推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  科学上网推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址2](https://www.linkev.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) |
@@ -210,13 +210,13 @@
 <ul><li><a href="https://chinadigitaltimes.net/chinese/2019/11/%E6%96%B0%E4%BA%AC%E6%8A%A5-%E4%B8%BA%E8%BF%913%E4%B8%87%E4%BA%BA%E6%8F%90%E4%BE%9Bvpn%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%EF%BC%8C%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9D%AD%E5%B7%9E/" class="ek-link" target="_blank" rel="noopener">为近3万人提供VPN“翻墙”服务，男子被杭州检方批捕</a></li><li><a href="https://www.youtube.com/watch?v=gnyHduWq5Ko" class="ek-link" target="_blank" rel="noopener">逗比根据地作者被起诉</a></li><li><a href="https://www.williamlong.info/archives/5239.html" class="ek-link" target="_blank" rel="noopener">男子销售SS软件获刑</a></li><li><a href="https://lusongsong.com/blog/post/9095.html" class="ek-link" target="_blank" rel="noopener">网际飞梭作者被抓</a></li><li><a href="https://www.49gm.org/%E5%A2%99%E5%A4%96%E6%A5%BC%E7%BD%91%E7%AB%99%E6%89%93%E4%B8%8D%E5%BC%80%EF%BC%8C%E6%9C%89%E6%B2%A1%E6%9C%89%E6%9B%BF%E4%BB%A3%E9%95%9C%E5%83%8F%EF%BC%9F/" class="ek-link" target="_blank" rel="noopener">墙外楼网站关闭</a> </li><li><a href="https://zh.wikipedia.org/zh/Shadowsocks" class="ek-link" target="_blank" rel="noopener">ShadowSocks作者被请喝茶</a></li></ul>
 <p>都是真实的案例，因为涉及的网站、软件被撤或被关是能直接观察到，且有几位涉事者后来都有澄清，所以可以确定不是空穴来风。据我所知，知乎上甚至有人因为卖建站主机入狱的，原因是名下的建站主机公司销售香港地区的服务器，被大量客户买去翻墙用，最终导致公司被关，自己也坐了一年的牢。如果你的心里正酝酿着做翻墙的生意，还是就此打住吧，如果你是网络主机提供商，也要管好自己的服务器，如果你是身怀绝技的码农，最好也别碰这类软件的开发，除非你已人肉翻墙，以后不打算回国了。</p>
  
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  科学上网推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址2](https://www.linkev.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=kxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=kxswkx&data2=kxswgftvvp) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) | 
- | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
  
 <h2><span id="zhong_guo_an_quan_fan_qiang_shang_wang_xu_zhi">中国安全翻墙上网须知</span></h2>
 <h3><span id="bu_yao_zai_guo_nei_wang_luo_san_bu_xin_xi">不要在国内网络散布信息</span></h3>
@@ -260,13 +260,13 @@
 <p>我可以很负责任的说，现在没有可靠的免费翻墙软件，将来也不会有。也许有哪些能让你临时上外网的，但这些产品的服务是无法持久的。</p>
  
 
- |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  科学上网推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址2](https://www.linkev.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=kxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=kxswkx&data2=kxswgftvvp) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
- | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
  
 <h2><span id="shen_me_shi_min_gan_shi_qi">什么是敏感时期？</span></h2>
 <p>所谓“敏感时期”就是翻墙软件具体失灵的时期，敏感时期内几乎所有科学上网的企图都会破灭，所有的软件会遭遇禁闭，连不上，速度极慢，频繁断线等问题集中出现，这些时候基本上中国互联网处于“军事戒严”状态，信息出入境极其不自由，是技术上的国家局域网，每次敏感时期可持续约1-2周后恢复，大家有都可以像什么都没发生过那样翻墙科学上网了。</p>
@@ -338,13 +338,13 @@
 <p>如果你对Trojan技术的安装配置和使用感兴趣，可以看<a rel="nofollow noopener noreferrer" href="https://trojan-tutor.github.io/2019/04/10/p41.html" class="rank-math-link" target="_blank">这篇文章</a>。
  
  
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  科学上网推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址2](https://www.linkev.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=kxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=kxswkx&data2=kxswgftvvp) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
- | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
  
 <h2><span id="qi_ta_ke_xue_shang_wang_gong_ju_dian_ping">其他科学上网工具点评</span></h2>
 <p>下面列举的这些翻墙工具或方法可能已经失效，请读者注意分辨。我应该不会专门去一一测试这些工具，因为并不主流，而且也很难做到长期安全有效。</p>
@@ -430,13 +430,11 @@
 
  ----
  
- ### 快捷购买入口：
-
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  科学上网推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=kxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=kxswkx&aff_sub2=kxswgftvvp) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址1](https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) | [Express备用地址2](https://www.linkev.com/?a_fid=kxswgftvvp_vpn&chan=kxswkx&data1=kxswgftvvp) |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=kxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=kxswkx&data2=kxswgftvvp) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
- | Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=kxswkx&data2=kxswgftvvp) |
  
