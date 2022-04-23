@@ -17,7 +17,7 @@
 <main id="main" class="site-main">
 <article class="post-2162 page type-page status-publish ast-article-single remove-featured-img-padding" id="post-2162" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
 <header class="entry-header ast-no-thumbnail ast-no-meta">
-<h1 class="entry-title" itemprop="headline">✅✅ 最新翻墙与科学上网指南= ✅✅</h1> </header>
+<h1 class="entry-title" itemprop="headline">🟢 最新翻墙与科学上网指南 🔴</h1> </header>
 <div class="entry-content clear" itemprop="text">
 <div class="lwptoc lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="100"><div class="lwptoc_i"> <div class="lwptoc_header">
 <b class="lwptoc_title">导航</b> <span class="lwptoc_toggle">
