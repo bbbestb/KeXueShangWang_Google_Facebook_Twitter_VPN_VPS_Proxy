@@ -1,7 +1,4 @@
-'''
-just have a try with argparse.
-e.g. python try_argparse.py -v -c 10
-'''
+
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("-v", "--verbose", help="increase output verbosity",
