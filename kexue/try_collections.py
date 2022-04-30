@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+### 拔牙
+
 from collections import defaultdict
 
 colors = ['red', 'green', 'white', 'red', 'blue', 'red']
