@@ -208,9 +208,6 @@
 
 <li>如果你预算充足，也可以考虑<a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">IvacyVPN</a>，这是目前国内很多老外在用的VPN。这个VPN非常低调，但一直保持着较高的连通率，据我国内的朋友反馈，多数时候速度也不错，缺点是设备支持相对没那么全，价钱偏贵。</li>
 
-<li>如果你买不到ExpressVPN等，你可以考虑用<a href="https://www.pankvyh.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>，国内应该还可以买到。这应该是目前翻墙节点最多的类SSR科学上网工具，付费版提供的SVIP节点覆盖香港、台湾、韩国、日本、美国等到中国大陆最理想的线路。实用的智能模式可以只代理被墙网站。缺点是隐私政策不是很透明，个人觉得不适合对上网数据安全特别敏感的用户。</li>
-
-
 
 <li>如果你不想花太多钱买商业VPN，而更喜欢自己架设，或者用自己的客户端软件，那么你可以考虑用SSR翻墙，自己架设的服务器有较大风险被墙，建议用更加可靠的商业节点如<a href="https://justmysocks.net/members/aff.php?aff=15216
 " class="ek-link" rel="nofollow noopener" target="_blank">JustMySocks</a>。</li>
@@ -220,7 +217,7 @@
 <!--
 <h3><span id="ben_wen_dao_du">本文导读</span></h3>
 <div class="wp-block-image is-style-circle-mask"><figure class="alignright is-resized"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20480'%3E%3C/svg%3E" alt="翻墙与科学上网权威指南" class="wp-image-2365" width="320" height="480" data-lazy-srcset="https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网.jpg 640w, https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网-200x300.jpg 200w" data-lazy-sizes="(max-width: 320px) 100vw, 320px" data-lazy-src="https://www.wallmama.com/wp-content/uploads/2019/11/%E7%BF%BB%E5%A2%99%E4%B8%8E%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg"><noscript><img src="https://www.wallmama.com/wp-content/uploads/2019/11/%E7%BF%BB%E5%A2%99%E4%B8%8E%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91.jpg" alt="翻墙与科学上网权威指南" class="wp-image-2365" width="320" height="480" srcset="https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网.jpg 640w, https://www.wallmama.com/wp-content/uploads/2019/11/翻墙与科学上网-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px"></noscript></figure></div>
-<ul><li><a href="https://www.wallmama.com/best-vpn-china/" class="ek-link">翻墙软件盘点，中国VPN推荐</a>：<br>介绍中国好用的VPN翻墙软件，如何购买、下载、安装、使用以及各自优缺点，适合所有读者。目前我们推荐的VPN依次为：<a class="rank-math-link" href="/best-vpn-china/#pandavpn">PandaVPN</a>，<a href="/best-vpn-china/#nordvpn" class="ek-link">NordVPN</a>，<a href="https://www.wallmama.com/best-vpn-china/#astrill" class="ek-link">AstrillVPN</a>, <a href="https://www.wallmama.com/best-vpn-china/#expressvpn">ExpressVPN</a>… 多数都无需翻墙即可从中国购买</li><li><a href="https://www.wallmama.com/%E6%97%A5%E6%9C%ACvpn/" class="ek-link">日本VPN推荐</a>：<br>推荐适合在中国使用的提供有效日本IP的日本VPN。</li><li><a href="https://www.wallmama.com/best-iphone-vpn-china/" class="ek-link">iOS翻墙</a>：<br>介绍最好用的iOS设备科学上网工具，一线服务商的无App配置快速翻墙方案，无需美国Apple ID，适合iphone，ipad用户。</li><li><a href="https://www.wallmama.com/%e7%94%b5%e8%84%91vpn%e7%bf%bb%e5%a2%99/" class="ek-link">电脑VPN翻墙攻略</a>：<br>介绍Windows，Mac等常用电脑操作系统翻墙方法，时候PC，苹果电脑用户。</li><li><a href="https://www.wallmama.com/best-android-vpn-china/" class="ek-link">安卓科学上网</a>：<br>介绍国内安卓手机用户如何购买、下载翻墙软件，适合Android手机、平板、电视用户。</li><li><a href="/ssr" class="ek-link">SSR节点分享</a>：<br>分享SSR机场和节点，包含想自建或可购买的第三方节点，适合偏爱SSR的用户。</li><li><a href="https://www.wallmama.com/%e7%bf%bb%e5%a2%99%e5%9b%9e%e5%9b%bd/" class="ek-link">翻墙回国</a>：<br>推荐提供中国大陆IP地址的VPN和代理服务，适合留学、工作或旅行途中需要访问国内音乐、电视电影服务的海外党朋友。</li><li><a href="/fqh" class="ek-link">翻墙后看什么</a><br>推荐墙外优质网站、自媒体、软件、工具、服务，适合所有读者。</li><li><a href="https://www.wallmama.com/vpn-download/" class="ek-link">VPN下载其实很简单</a><br>从国内下载VPN没你想象的那么难。</li></ul>
+<ul><li><a href="https://www.wallmama.com/best-vpn-china/" class="ek-link">翻墙软件盘点，中国VPN推荐</a>：<br>介绍中国好用的VPN翻墙软件，如何购买、下载、安装、使用以及各自优缺点，适合所有读者。目前我们推荐的VPN依次为：<a href="/best-vpn-china/#nordvpn" class="ek-link">NordVPN</a>，<a href="https://www.wallmama.com/best-vpn-china/#astrill" class="ek-link">AstrillVPN</a>, <a href="https://www.wallmama.com/best-vpn-china/#expressvpn">ExpressVPN</a>… 多数都无需翻墙即可从中国购买</li><li><a href="https://www.wallmama.com/%E6%97%A5%E6%9C%ACvpn/" class="ek-link">日本VPN推荐</a>：<br>推荐适合在中国使用的提供有效日本IP的日本VPN。</li><li><a href="https://www.wallmama.com/best-iphone-vpn-china/" class="ek-link">iOS翻墙</a>：<br>介绍最好用的iOS设备科学上网工具，一线服务商的无App配置快速翻墙方案，无需美国Apple ID，适合iphone，ipad用户。</li><li><a href="https://www.wallmama.com/%e7%94%b5%e8%84%91vpn%e7%bf%bb%e5%a2%99/" class="ek-link">电脑VPN翻墙攻略</a>：<br>介绍Windows，Mac等常用电脑操作系统翻墙方法，时候PC，苹果电脑用户。</li><li><a href="https://www.wallmama.com/best-android-vpn-china/" class="ek-link">安卓科学上网</a>：<br>介绍国内安卓手机用户如何购买、下载翻墙软件，适合Android手机、平板、电视用户。</li><li><a href="/ssr" class="ek-link">SSR节点分享</a>：<br>分享SSR机场和节点，包含想自建或可购买的第三方节点，适合偏爱SSR的用户。</li><li><a href="https://www.wallmama.com/%e7%bf%bb%e5%a2%99%e5%9b%9e%e5%9b%bd/" class="ek-link">翻墙回国</a>：<br>推荐提供中国大陆IP地址的VPN和代理服务，适合留学、工作或旅行途中需要访问国内音乐、电视电影服务的海外党朋友。</li><li><a href="/fqh" class="ek-link">翻墙后看什么</a><br>推荐墙外优质网站、自媒体、软件、工具、服务，适合所有读者。</li><li><a href="https://www.wallmama.com/vpn-download/" class="ek-link">VPN下载其实很简单</a><br>从国内下载VPN没你想象的那么难。</li></ul>
 -->
 
 <h2><span id="fan_qiang_shi_fou_wei_fa">翻墙是否违法？</span></h2>
@@ -407,7 +404,7 @@
 <h3><span id="han_guo">韩国</span></h3>
 <p>韩国节点类似台湾，数量少，不好找，但是连接块，但是我测过同款翻墙产品的台湾，日本，新加坡节点的速度，明显快过韩国节点的，稳定性时好时坏，测过VyprVPN的韩国节点可怜，其余的没连上过，个人不推荐韩国节点，虽然延时低，但好不好用不好讲。</p>
 <h3><span id="xiao_jie">小结</span></h3>
-<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>的最佳节点为香港备用节点，不管你用什么科学上网工具，香港应该是第一选择</li></ol>
+<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，</li></ol>
  
  
  ![](https://raw.githubusercontent.com/fqmama/tizi/9825d5bb5f66da976c6806ab5eb9a535af8bf563/files/5.jpg)
@@ -422,8 +419,6 @@
 <ul>
  <li><a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （可惜2020年9月起国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）</li>
  
- <li><a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">PandaVPN</a>：可以两头翻墙，最近（2019年）发现的工具，已经买了两年，用了几个月了，很满意，继续观察</li>
- 
  <li><a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">NordVPN</a>：这个东西以前不怎么好用，但2020年后，经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了</li>
  
  <li><a href="https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">Ivacy</a>：相对比较低调，价格中上，可以作为备用的选择</li>
@@ -432,7 +427,7 @@
  </ul>
 <p>ExpressVPN我用香港3，香港4，东京3等节点，不好连了换一个，基本不需要其它节点。电脑、手机上连香港大概平均40秒内连上，家里Wifi，手机4G网络都会偶尔断线，但绝大多数时候App能自动成功重连，<strong>基本可以顾自己做事</strong>，不用想“我现在能不能翻墙，是不是要换一个连一下”这种问题。</p>
 <h3><span id="fei_te_shu_shi_qi_yong_lan_deng_bei_fen">非特殊时期用蓝灯备份</span></h3>
-<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>目前蓝灯变得不好用了，我手上的替代是<a href="https://www.pantoto.xyz/r/22216799" class="ek-link" rel="nofollow noopener" target="_blank">熊猫VPN</a>，技术上两者接近，都是基于加密SOCKS5协议。</p></div></div>
+<div style="color:#32373c;background-color:#ff3860" class="wp-block-genesis-blocks-gb-notice gb-font-size-18 gb-block-notice" data-id="6a8953"><div class="gb-notice-title" style="color:#fff"><p>2020/04</p></div><div class="gb-notice-text" style="border-color:#ff3860"><p>目前蓝灯变得不好用了，，技术上两者接近，都是基于加密SOCKS5协议。</p></div></div>
 <p>要是我的iPhone和iPad上能装蓝灯，我就很可能把它和VPN一同推荐，可惜到目前为止，<strong>蓝灯仍然不支持iOS设备</strong>。尽管如此，我还是一口气买里好几年的蓝灯专业版，把它装在我的Windows 10电脑和安卓手机上。</p>
 <p>有时候要紧急上一下外网，蓝灯的连接速度更快；有时候VPN会变得不怎么好用，比如客户端需要更新，我也会连上蓝灯来更新VPN往往更快。蓝灯的客户端也很好用，但可惜我还是把它当备胎来用，除了iOS上没法用，它只允许同时3个连接有点少，ExpressVPN等一线VPN都已提供至少5个同时连接，我有一台Windows笔记本，一个Windows平板，一个iPad，一个MacBook Pro笔记本，还有安卓和苹果手机各一部，蓝灯对我来说有点不够用。</p>
 <p>有不少小朋友都反映蓝灯不好用，我只能说这可能跟所在上网区域有关系，在我经常去的北京上海西安成都等城市，蓝灯一直都挺好用的，它是目前我能找到的可用性最好的备胎翻墙软件。因为设备多的关系，安卓和windows系统上它偶尔可以分担一下，iOS设备上基本全天开着VPN。</p>
