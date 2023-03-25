@@ -194,7 +194,7 @@
 
 <p>老铁们都知道，都知道能否流畅翻墙（也叫科学上网）访问<a href="https://en.wikipedia.org/wiki/List_of_websites_blocked_in_mainland_China" target="_blank" rel="noopener">中国国内被墙的服务</a>，决定着我们在那里的生活质量。看Youtube、用Google搜索、用Gmail收发邮件、在Netflix/HBO追剧、在Reddit/Facebook群组里灌水、在国外MOOC平台上学习、连到日本、台湾节点打网游 … </p>
 
-<p>我持续追踪翻墙技术，长期关注VPN，SSR，WireGuard，蓝灯等技术，为读者推荐最新最好用的科学上网方法和工具。作者虽常年生活于海外，但因为学习与工作需要，经常需要回国，每次回中国最担心的问题就是回去以后能不能顺利访问外网，所以对这类软件特别关注，电脑和手机上常年装着十几个付费APP，以备不时之需，感谢国内上海/广州/西安/成都等城市的朋友们帮我测试。这几年翻墙越来越难，目前看来，VPN和加密代理仍然是主流，也是本站这几年来最多评测的一类科学上网工具。有读者评论说VPN技术早就过时了为什么还要用它来翻墙，其实很多人有所不知，现在很多翻墙工具虽然名字还叫“VPN”，实际上早就超越传统OpenVPN协议，连通率与性能大幅提升（如<a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link">ExpressVPN</a>的LightWay协议），现在能翻墙的VPN都是多协议，客户端会根据网络状况自动切换，绝大多数时候都不需要用户干预，所以对广大非专业用户来说，VPN仍然是翻墙首选。</p>
+<p>我持续追踪翻墙技术，长期关注VPN，SSR，WireGuard，蓝灯等技术，为读者推荐最新最好用的科学上网方法和工具。作者虽常年生活于海外，但因为学习与工作需要，经常需要回国，每次回中国最担心的问题就是回去以后能不能顺利访问外网，所以对这类软件特别关注，电脑和手机上常年装着十几个付费APP，以备不时之需，感谢国内上海/广州/西安/成都等城市的朋友们帮我测试。这几年翻墙越来越难，目前看来，VPN和加密代理仍然是主流，也是本站这几年来最多评测的一类科学上网工具。有读者评论说VPN技术早就过时了为什么还要用它来翻墙，其实很多人有所不知，现在很多翻墙工具虽然名字还叫“VPN”，实际上早就超越传统OpenVPN协议，连通率与性能大幅提升（如<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp" class="ek-link">ExpressVPN</a>的LightWay协议），现在能翻墙的VPN都是多协议，客户端会根据网络状况自动切换，绝大多数时候都不需要用户干预，所以对广大非专业用户来说，VPN仍然是翻墙首选。</p>
  
  
 ![](https://raw.githubusercontent.com/fqmama/tizi/95aafe12d5862e306776031ecd9f039299563439/files/1.jpg) 
@@ -202,7 +202,7 @@
 <h2><span id="2022nian_ru_he_fan_qiang">今年如何翻墙</span></h2>
 <ol class="is-style-starred has-list-bullet-color" style="--ek-bullet-color:#000000">
 
-<li>如果你能买到<a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，<a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">长期使用有优惠</a>。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。</li>
+<li>如果你能买到<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，<a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">长期使用有优惠</a>。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。</li>
 
 <li>其次的选择是，<a href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitkxswkx&aff_sub2=kxswgftvvp" rel="nofollow noopener" target="_blank" class="ek-link">NordVPN</a>第一梯队的老牌梯子，线路相对稳定，一键连接很方便。经常搞搞活动，价格适中，性价比很高。</li>
 
@@ -404,7 +404,7 @@
 <h3><span id="han_guo">韩国</span></h3>
 <p>韩国节点类似台湾，数量少，不好找，但是连接块，但是我测过同款翻墙产品的台湾，日本，新加坡节点的速度，明显快过韩国节点的，稳定性时好时坏，测过VyprVPN的韩国节点可怜，其余的没连上过，个人不推荐韩国节点，虽然延时低，但好不好用不好讲。</p>
 <h3><span id="xiao_jie">小结</span></h3>
-<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，</li></ol>
+<ol><li>除香港与台湾节点外，其余节点我认为都不适合用作游戏翻墙使用，日本机房的Ping值已经普遍在150ms或以上，也不适合玩游戏</li><li>上面所有节点只要连上都可看油管视频，只不过个别软件的个别节点缓冲率稍高，但720p下缓冲都不多，视频很流畅，1080p缓冲会常见一点</li><li>香港、日本、美西节点应该是翻墙首选，其它地区的节点可以偶尔拿来使用</li><li><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>的最佳节点为香港、日本、美国洛杉矶，</li></ol>
  
  
  ![](https://raw.githubusercontent.com/fqmama/tizi/9825d5bb5f66da976c6806ab5eb9a535af8bf563/files/5.jpg)
@@ -417,7 +417,7 @@
 <p>单说穿墙能力，VPN不一定不是最强的，但我还是推荐平时用VPN，<strong>因为VPN客户端用起来最舒服</strong>，自动检测最快节点，断线自动重连，重连自动打开流量泄露保护，客户端傻瓜式更新安装 … 这些小功能加起来就是两个字“<strong>舒服</strong>”，软件好用，学习工作更愉悦，我懂一点电脑，但还没有懂到能天天和一个第三方软件的配置折腾较劲的水平。</p>
 <p>我现在用的VPN主要是：</p>
 <ul>
- <li><a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （可惜2020年9月起国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）</li>
+ <li><a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>：回国往外翻的时候用，已经用了5+年，很满意，也不打算换 （可惜2020年9月起国内已经没有可直接打开购买的镜像了，须先用免费工具翻墙后用国外IP才能购买）</li>
  
  <li><a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">NordVPN</a>：这个东西以前不怎么好用，但2020年后，经过开发团队的努力，终于抛弃了对Obfuscated Server的依赖，现在变得挺好用了</li>
  
