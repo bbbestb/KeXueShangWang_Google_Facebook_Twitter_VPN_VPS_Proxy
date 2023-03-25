@@ -43,7 +43,7 @@
 </div>
 <div class="lwptoc_items lwptoc_items-visible">
 <ul class="lwptoc_itemWrap"><li class="lwptoc_item"> <a href="#2022nian_ru_he_fan_qiang">
-<span class="lwptoc_item_label">2022年如何翻墙</span>
+<span class="lwptoc_item_label">今年如何翻墙</span>
 </a>
 <li class="lwptoc_item"> <a href="#fan_qiang_shi_fou_wei_fa">
 <span class="lwptoc_item_label">❤❤ 翻墙是否违法？ ❤❤</span>
@@ -199,7 +199,7 @@
  
 ![](https://raw.githubusercontent.com/fqmama/tizi/95aafe12d5862e306776031ecd9f039299563439/files/1.jpg) 
  
-<h2><span id="2022nian_ru_he_fan_qiang">2022年如何翻墙</span></h2>
+<h2><span id="2022nian_ru_he_fan_qiang">今年如何翻墙</span></h2>
 <ol class="is-style-starred has-list-bullet-color" style="--ek-bullet-color:#000000">
 
 <li>如果你能买到<a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">ExpressVPN</a>，用它翻墙是最可靠的。设备支持非常全（Windows、Mac、Linux、Android、iPhone、路由器 …），安全性高，隐私保护有保障。前两年这个VPN的连通率和速度都不快，但自从加入Lightway协议后连通率和速度大幅提升，这是我自己每次回国前必买的工具，<a href="https://www.xvuslink.com/?a_fid=kxswgftvvp_vpn&chan=2gitkxswkx&data1=kxswgftvvp" class="ek-link" rel="nofollow noopener" target="_blank">长期使用有优惠</a>。ExpressVPN的提供香港、日本、美国洛杉矶、新加坡四处节点，香港、洛杉矶、日本的连通率和稳定性最佳。</li>
