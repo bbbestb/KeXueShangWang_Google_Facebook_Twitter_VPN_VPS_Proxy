@@ -1,22 +1,4 @@
-
-# [💚💚💚💚💚 10年经验老铁测评，最新权威，点击查看攻略，拒绝跑路VPN！](https://cntizi1.com/?gitkexueshangwangkexue-kexue-desc)
-
-<!DOCTYPE html>
-<html>
-<head>
- <meta charset="utf-8">
-</head>
-<body>
-<a href="https://cntizi1.com/?gitkexueshangwangkexue-kexue-pic"><img src="https://cntizi1.com/images/recommend.png" target="_blank"> </a>
-</body>
-</html>
-
-
----------
-
---------
-
-# 科学上网🟢 科学上网🔴 科学上网🟡 科学上网
+# 科学上网🟢🔴 购买后，可联系客服咨询，最新的中国区推荐配置方法、或有提供单独的安装包下载
 
 ### 科学上网梯子推荐榜：
 
