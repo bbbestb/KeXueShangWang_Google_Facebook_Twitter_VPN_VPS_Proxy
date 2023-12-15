@@ -211,7 +211,6 @@
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitkxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp) | - | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitkxswkx&data2=kxswgftvvp) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) |
 | Pure梯子 | ⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitkxswkx&data2=kxswgftvvp) | - | - |
  
 <h2><span id="zhong_guo_an_quan_fan_qiang_shang_wang_xu_zhi">中国安全翻墙上网须知</span></h2>
@@ -261,7 +260,6 @@
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitkxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp) | - | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitkxswkx&data2=kxswgftvvp) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) |
 | Pure梯子 | ⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitkxswkx&data2=kxswgftvvp) | - | - |
  
 <h2><span id="shen_me_shi_min_gan_shi_qi">什么是敏感时期？</span></h2>
@@ -339,7 +337,6 @@
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitkxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp) | - | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitkxswkx&data2=kxswgftvvp) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) |
 | Pure梯子 | ⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitkxswkx&data2=kxswgftvvp) | - | - |
  
 <h2><span id="qi_ta_ke_xue_shang_wang_gong_ju_dian_ping">其他科学上网工具点评</span></h2>
@@ -429,6 +426,5 @@
 | Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitkxswkx&aff_click_id=kxswgftvvp) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2gitkxswkx&aff_sub2=kxswgftvvp) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitkxswkx&subId2=kxswgftvvp) | - | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitkxswkx&data2=kxswgftvvp) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/kxswkx/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitkxswkx&data2=kxswgftvvp) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2gitkxswkx&data2=kxswgftvvp) |
 | Pure梯子 | ⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=2gitkxswkx&data2=kxswgftvvp) | - | - |
  
